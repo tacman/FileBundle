@@ -13,15 +13,6 @@ Symfony bundle that standardize the way of handling data file associated with an
 
 ## Installation
 
-The bundle is not yet on packagist make sure to add the following to your `composer.json` file:
-
-```json
-{
-    "url": "https://github.com/2lenet/FileBundle",
-    "type": "git"
-}
-```
-
 Install with composer:
 
 ```shell
